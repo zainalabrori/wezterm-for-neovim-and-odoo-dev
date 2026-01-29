@@ -1,0 +1,1 @@
+# wezterm-for-neovim-and-odoo-dev
