@@ -60,6 +60,7 @@ config.text_background_opacity = 1.0     -- Keep text fully opaque (readability)
 
 config.initial_cols = 120                -- Wider for side-by-side code
 config.initial_rows = 30
+config.adjust_window_size_when_changing_font_size = false
 config.window_decorations = "TITLE | RESIZE"
 config.window_padding = {
   left = 2,
